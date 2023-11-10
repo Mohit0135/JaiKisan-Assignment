@@ -13,8 +13,8 @@ The e-commerce master  folder contains ths MERN stack web application.
 
 -> Provided the IAM user permissions accordingly.
 
--> Due the failure of the codebuild the further integeration of the pipline is not working 
+-> Due the failure of the codebuild the further integeration of the pipeline is not working 
 
--> Code pipline was used to make the pipline to perform the 
-   
-    Commit->Build->Deploy the webapplication
+-> Code pipeline was used to make the pipeline to perform the 
+
+   Commit->Build->Deploy the webapplication
